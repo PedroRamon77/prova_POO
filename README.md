@@ -1,2 +1,2 @@
 # prova_POO
-Prova POO
+Dupla Pedro Ramon, João Pedro
